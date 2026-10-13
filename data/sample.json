@@ -1,0 +1,12 @@
+{
+  "project": "review-insight-suite",
+  "resource": "reviews",
+  "samples": [
+    {
+      "id": "rv1",
+      "product": "PocketMind",
+      "text": "Works offline",
+      "rating": 5
+    }
+  ]
+}
